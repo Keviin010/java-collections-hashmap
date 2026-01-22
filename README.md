@@ -37,4 +37,4 @@ Este proyecto forma parte del proceso de aprendizaje de Java backend y está ori
 
 ## Próximo paso recomendado
 - Integrar estas estructuras dentro de un proyecto backend más amplio
-- Utilizar estas colecciones como base para repositorios y servicios
+- Utilizar estas colecciones como base para repositorios y servicios.
