@@ -1,6 +1,6 @@
 # Java Collections — HashMap Examples
 
-Repositorio en Java enfocado en el uso de colecciones, principalmente `HashMap`, para modelar relaciones entre objetos y simular operaciones comunes en contextos backend.
+Repositorio en Java enfocado en el uso de colecciones, principalmente `HashMap`,.  para modelar relaciones entre objetos y simular operaciones comunes en contextos backend.
 
 ## Objetivo del proyecto
 Reforzar el manejo de colecciones en Java mediante ejemplos prácticos que representen relaciones entre entidades del dominio, aplicando operaciones de inserción, acceso seguro, eliminación y recorrido de datos.
