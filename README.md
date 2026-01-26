@@ -36,5 +36,5 @@ El proyecto está organizado por paquetes según el tipo de colección utilizada
 Este proyecto forma parte del proceso de aprendizaje de Java backend y está orientado a fortalecer el manejo de estructuras de datos fundamentales antes de integrarlas en aplicaciones backend más complejas.
 
 ## Próximo paso recomendado
-- Integrar estas estructuras dentro de un proyecto backend más amplio
+- Integrar estas estructuras dentro de un proyecto backend más amplio.
 - Utilizar estas colecciones como base para repositorios y servicios.
